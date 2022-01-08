@@ -3,7 +3,8 @@
     <h1>{{ msg }}</h1>
     <h3>Installed CLI Plugins</h3>
     <h1>你好 我是中国人</h1>
-    <h1>啊哈哈哈哈哈</h1>
+
+    <h1>天空是蔚蓝色的</h1>
   </div>
 </template>
 
