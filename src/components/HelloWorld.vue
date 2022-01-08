@@ -4,7 +4,7 @@
     <h3>Installed CLI Plugins</h3>
     <h1>你好 我是中国人</h1>
 
-    <h1>新分支(b02x8) 人为制造冲突 然后合并冲突</h1>
+    <h1>全新的分支(r4bj0) 人为制造冲突 然后合并冲突</h1>
   </div>
 </template>
 
